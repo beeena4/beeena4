@@ -7,22 +7,21 @@
   Hello! I'm beeena4
 </h3>
 
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <p>
-          Hello, my name is feebrii .
-          I'm a beginner in coding, learning HTML, Java, and Python. 
-          Passionate about programming and excited to explore the world of development!
-        </p>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="100">
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      - 🌱 I'm a **beginner in coding**, currently learning:
+        - 🖥️ **HTML**  
+        - ☕ **Java**  
+        - 🐍 **Python**  
+      - 🚀 Passionate about programming and eager to learn more!  
+      - 💡 Always improving and exploring new technologies.  
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="100">
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Skills:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
