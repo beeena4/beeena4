@@ -12,7 +12,7 @@
     <td align="left">
       I'm a beginner in coding, currently learning:  
       HTML , Java , Python.  
-      Passionate about programming and eager to learn more! 𖤐 
+      Passionate about programming and eager to learn more!  
       Always improving and exploring new technologies.
       My goal is to become a proficient developer who can create innovative and impactful projects.  
       I believe that learning is a lifelong journey, and I'm excited to keep growing every day!. ≽^• ˕ • ྀི≼
