@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**beeena4/beeena4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm beeena4
 
-Here are some ideas to get you started:
+I'm a beginner in coding, passionate about learning and exploring the world of programming. Currently, I'm focusing on improving my skills and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 GitHub Stats:
+![Febri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beeena4&show_icons=true&theme=radical)
+
+---
+💡 *"Every expert was once a beginner! Keep coding and never stop learning."* 🚀
