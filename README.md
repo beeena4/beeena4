@@ -1,9 +1,11 @@
 
   <p align="center">
-  Hello! I'm beeena4
   <img src="https://media.giphy.com/media/3eTFXSUzI5Oi1TW1hx/giphy.gif" width="800">
 </p>
 
+<h3 align="center">
+  Hello! I'm beeena4
+</h3>
 
 I'm a beginner in coding, passionate about learning and exploring the world of programming. Currently, I'm focusing on improving my skills and problem-solving.
 
