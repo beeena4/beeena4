@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td>
-      - 🌱 I'm a **beginner in coding**, currently learning:
-        - 🖥️ **HTML**  
-        - ☕ **Java**  
-        - 🐍 **Python**  
+      - 🌱 I'm a beginner in coding, currently learning:
+        - 🖥️ HTML  
+        - ☕ Java 
+        - 🐍 Python  
       - 🚀 Passionate about programming and eager to learn more!  
       - 💡 Always improving and exploring new technologies.  
     </td>
