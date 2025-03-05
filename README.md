@@ -12,7 +12,8 @@
     <tr>
       <td>
         <p>
-          Hello, my name is Beeena4.  I'm a beginner in coding, learning HTML, Java, and Python. 
+          Hello, my name is feebrii .
+          I'm a beginner in coding, learning HTML, Java, and Python. 
           Passionate about programming and excited to explore the world of development!
         </p>
       </td>
