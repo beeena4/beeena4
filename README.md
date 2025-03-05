@@ -30,9 +30,6 @@
 
 ### 📊 GitHub Stats:
 ![Febri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beeena4&show_icons=true&theme=radical)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeena4&layout=compact&langs_count=6&theme=radical">
-</p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=beeena4&theme=radical)](https://git.io/streak-stats)
 
 
