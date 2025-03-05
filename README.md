@@ -9,13 +9,13 @@
 
 <table>
   <tr>
-    <td>
+    <td align="left">
       I'm a beginner in coding, currently learning:
          🖥️ HTML ,☕ Java , 🐍 Python  .
       Passionate about programming and eager to learn more! Always improving and exploring new technologies.  
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="100">
+      <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="150">
     </td>
   </tr>
 </table>
