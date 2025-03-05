@@ -10,17 +10,17 @@
 <table>
   <tr>
     <td align="left">
-      I'm a beginner in coding, currently learning:  
-      🖥️ HTML, ☕ Java, 🐍 Python.  
+      <p><strong>I'm a beginner in coding, currently learning:</strong></p>
+      <p>🖥️ <strong>HTML</strong>, ☕ <strong>Java</strong>, 🐍 <strong>Python</strong>.</p>
 
-      Passionate about programming and eager to learn more!  
-      I enjoy solving problems, experimenting with new technologies, and continuously improving my skills.    
+      <p>Passionate about programming and eager to learn more!  
+      I enjoy solving problems, experimenting with new technologies, and continuously improving my skills.</p>    
 
-      My goal is to become a proficient developer who can create innovative and impactful projects.  
-      I believe that learning is a lifelong journey, and I'm excited to keep growing every day! 🚀  
+      <p>My goal is to become a proficient developer who can create innovative and impactful projects.  
+      I believe that learning is a lifelong journey, and I'm excited to keep growing every day! 🚀</p>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="150">
+      <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="180">
     </td>
   </tr>
 </table>
