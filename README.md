@@ -1,5 +1,7 @@
 
-<img src="https://media.giphy.com/media/VbjGDid2RXgTjheXo2/giphy.gif" width="800">
+<p align="center">
+  <img src="https://media.giphy.com/media/VbjGDid2RXgTjheXo2/giphy.gif" style="width: 100%; max-width: 900px; height: auto;">
+</p>
 
 <h3 align="center">
   Hello! I'm beeena4
