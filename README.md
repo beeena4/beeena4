@@ -7,17 +7,30 @@
   Hello! I'm beeena4
 </h3>
 
-<div align="center">
-  <h3>Hello! I'm Beeena4 👋</h3>
-  <p>
-    🌱 Beginner in coding, currently learning:  
-    🖥️ **HTML** | ☕ **Java** | 🐍 **Python**  
-  </p>
-  <p>
-    🚀 Passionate about programming and always learning!  
-  </p>
-  <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="200">
+<div align="left">
+  <table>
+    <tr>
+      <td width="70%">
+        <p>
+          I'm a **beginner coder**, currently exploring:
+        </p>
+        <ul>
+          <li>🌐 HTML</li>
+          <li>☕ Java</li>
+          <li>🐍 Python</li>
+        </ul>
+        <p>
+          🚀 Passionate about programming and eager to learn more!  
+          💡 Always improving and exploring new technologies.
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="120">
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ### 🛠️ Skills:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
