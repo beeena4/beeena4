@@ -4,14 +4,14 @@
 </p>
 
 <h3 align="center">
-  hello! I'm 彡 beeena4 ₊ ˚ᥐ ʾʿ˒˓ ꕨ
+  hello! I'm 彡 beena4 ₊ ˚ᥐ ʾʿ˒˓ ꕨ
 </h3>
 
 <table>
   <tr>
     <td align="left">
       I'm a beginner in coding, currently learning:  
-      🖥️ HTML , ☕ Java , 🐍 Python.  
+      HTML , Java , Python.  
       Passionate about programming and eager to learn more! 𖤐 
       Always improving and exploring new technologies.
       My goal is to become a proficient developer who can create innovative and impactful projects.  
