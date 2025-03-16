@@ -58,5 +58,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beeena4/beeena4/output/snake.svg" alt="Snake animation" />
+</p>
+
+
 ---
 💡 *"Every expert was once a beginner! Keep coding and never stop learning."* 🚀
