@@ -58,11 +58,6 @@
   </tr>
 </table>
 
-### 💻 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeena4&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/beeena4/beeena4/output/snake.svg" alt="Snake animation" />
 </p>
