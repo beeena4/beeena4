@@ -46,14 +46,19 @@
   <img width="12" />
 </p>
 
-### 📊 GitHub Stats:
-<table>
+### 📊 GitHub Stats
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=beeena4&show_icons=true&theme=radical" height="200"/>
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=beeena4&theme=radical" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeena4&layout=compact&theme=radical" height="200"/>
     </td>
   </tr>
 </table>
